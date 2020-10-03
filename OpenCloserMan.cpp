@@ -11,14 +11,6 @@ using namespace std;
 map<string,string>inTime;
 map<string,string>outTime;
 
-
-/* 
-本程序的重点就是讲时间序列的字符串转换成数字，从而可以进行大小比较来判断时间早晚
-  str-08:59:30
- num-[01234567]
- */
-
-
 int main()
 {
     int n;
